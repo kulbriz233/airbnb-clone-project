@@ -1,3 +1,24 @@
-# airbnb-clone-project
+# Airbnb Clone Project
 
-This project is a full-stack clone of the popular accommodation booking platform AirBnB. The goal is to build a functional web application that allows users to browse property listings, view detailed property information, and complete bookings. The project will cover frontend development, backend APIs, database design, and deployment.
+This is a front-end clone of the Airbnb website built as a project to practice UI development, responsive design, and modern front-end architecture. The goal is to replicate the core layout and functionality of the Airbnb platform — think listings, booking cards, search, and maybe even a date picker.
+
+## 🚀 Project Goals
+
+- Recreate the Airbnb homepage UI
+- Implement listing cards and navigation
+- Add filter/search functionality
+- Mobile responsiveness
+- Stretch Goal: Add backend integration for listings
+
+## 🛠 Tech Stack
+
+- **React** – Front-end library for building UI
+- **React Router** – For page routing/navigation
+
+## 📦 Installation
+
+```bash
+git clone https://https://github.com/kulbriz233/airbnb-clone-project.git
+cd airbnb-clone-project
+npm install
+npm run dev
