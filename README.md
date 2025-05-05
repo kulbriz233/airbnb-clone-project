@@ -110,16 +110,18 @@ This planning ensures that the product's development process remains organized, 
 
 ### 👥 Project Roles and Responsibilities
 
-| Role              | Responsibilities                                                         |
-|-------------------|---------------------------------------------------------------------------|
-| Project Manager    | Oversees timeline, team coordination, and project deliverables           |
-| Frontend Developers | Build responsive UI components and implement interactive design elements |
-| Backend Developers  | Develop APIs, handle data logic, and connect to the database            |
-| Designers           | Create Figma mockups, maintain visual consistency, and test usability   |
-| QA/Testers          | Write test cases, identify bugs, and validate user flows                |
-| DevOps Engineers    | Manage deployments, CI/CD pipeline, and hosting infrastructure          |
-| Product Owner       | Define product goals, prioritize features, and liaise with stakeholders |
-| Scrum Master        | Facilitate agile processes, remove blockers, and manage sprint cycles   |
+This section defines the key roles involved in the development of the Airbnb Clone Project and how each contributes to the overall success of the project.
+
+| Role               | Responsibilities |
+|--------------------|------------------|
+| **Project Manager** | Ensures the project stays on track by managing timelines, coordinating tasks across teams, and overseeing deliverables. Acts as the central point of communication between all stakeholders to maintain momentum. |
+| **Frontend Developers** | Responsible for translating the UI/UX designs into responsive, interactive components using technologies like React. They ensure the app looks and behaves consistently across devices and browsers. |
+| **Backend Developers** | Handle server-side logic, database integration, and API development. Their job is to ensure smooth communication between the client-side and server, and implement core business logic. |
+| **Designers** | Create Figma mockups, wireframes, and high-fidelity prototypes. They ensure the visual consistency of the brand, focus on user experience, and maintain an accessible, intuitive interface design system. |
+| **QA/Testers** | Write test plans, perform manual and automated testing, and identify bugs before release. Their work ensures the reliability, stability, and performance of the application in all user flows. |
+| **DevOps Engineers** | Set up and manage deployment pipelines (CI/CD), cloud infrastructure, and system monitoring. They make sure the application is scalable, secure, and running efficiently in production. |
+| **Product Owner** | Defines the product vision and prioritizes the feature roadmap. Works closely with developers and designers to ensure business goals align with the user needs. Represents stakeholder interests throughout development. |
+| **Scrum Master** | Facilitates Agile ceremonies (daily standups, sprint planning, retrospectives), removes team blockers, and ensures the team follows Agile principles for better collaboration and faster delivery. |
 
 ---
 
