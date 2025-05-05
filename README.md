@@ -15,7 +15,7 @@ This is a front-end clone of the Airbnb website built as a project to practice U
 - **React** – Front-end library for building UI
 - **React Router** – For page routing/navigation
 
-## 📦 Installation
+## 📦 Installation!
 
 ```bash
 git clone https://https://github.com/kulbriz233/airbnb-clone-project.git
