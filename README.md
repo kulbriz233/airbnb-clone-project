@@ -66,17 +66,45 @@ A well-designed booking system **reduces friction**, **builds user trust**, and 
 
 ### 🎨 Figma Design Specifications
 
-**Color Styles**
-- Primary: `#FF5A5F`
-- Secondary: `#008489`
-- Background: `#FFFFFF`
-- Text: `#222222`
-- Secondary Text: `#717171`
+**Color Styles**  
+Here are the primary colors used throughout the design:
 
-**Typography**
-- Primary Font: Circular, Medium (500), 16px  
-- Headings: Circular, Bold (700), 24px–32px  
-- Secondary Text: Circular, Book (400), 14px  
+- **Primary:** `#FF5A5F`  
+- **Secondary:** `#008489`  
+- **Background:** `#FFFFFF`  
+- **Text:** `#222222`  
+- **Secondary Text:** `#717171`  
+
+**Typography**  
+This is the type system used to maintain readability and hierarchy across the UI:
+
+- **Primary Font Family:** Circular  
+  - **Font Weight:** Medium (500)  
+  - **Font Size:** 16px
+- **Headings Font Family:** Circular  
+  - **Font Weight:** Bold (700)  
+  - **Font Size:** 24px - 32px (varies by section)
+- **Secondary Text Font Family:** Circular  
+  - **Font Weight:** Book (400)  
+  - **Font Size:** 14px  
+
+---
+
+### 🧠 Importance of Identifying Design Properties of a Mockup
+
+Identifying and clearly defining the **design properties** of a mockup is essential for multiple reasons:
+
+1. **Consistency:** Establishing color palettes, font styles, and component structures in the mockup helps maintain a cohesive look throughout the app. Without this, each page or element can end up looking mismatched, leading to a disjointed user experience.
+
+2. **Guidance for Developers:** Clear design properties act as a blueprint for developers, ensuring they implement the UI as envisioned. This includes knowing font sizes, color codes, margins, and layout styles — basically making sure the front-end matches the design exactly.
+
+3. **Responsive Design:** By defining how elements will adjust to different screen sizes in a mockup (like breakpoints, reflowing text, or stacking elements), we can ensure that the design will work on all devices, from mobile phones to large desktop monitors.
+
+4. **Speed & Efficiency:** When the design properties are already clearly set in the mockup, it saves time in both development and future updates. Developers and designers don’t need to go back and forth making design decisions — everything is defined up front.
+
+---
+
+This planning ensures that the product's development process remains organized, efficient, and true to the original design intent.
 
 ---
 
