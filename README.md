@@ -112,7 +112,7 @@ This planning ensures that the product's development process remains organized, 
 
 This section defines the key roles involved in the development of the Airbnb Clone Project and how each contributes to the overall success of the project.
 
-| Role               | Responsibilities |
+| Roles              | Responsibilities |
 |--------------------|------------------|
 | **Project Manager** | Ensures the project stays on track by managing timelines, coordinating tasks across teams, and overseeing deliverables. Acts as the central point of communication between all stakeholders to maintain momentum. |
 | **Frontend Developers** | Responsible for translating the UI/UX designs into responsive, interactive components using technologies like React. They ensure the app looks and behaves consistently across devices and browsers. |
