@@ -127,26 +127,51 @@ This section defines the key roles involved in the development of the Airbnb Clo
 
 ### 🧩 UI Component Patterns
 
-#### **Planned Components**
+The Airbnb Clone project will be built using modular, reusable UI components to maintain consistency, improve scalability, and speed up development. Below are the primary components we plan to implement:
 
-**Navbar**
-- Logo
-- Search bar
-- User navigation links
-- Responsive hamburger menu
+---
 
-**Property Card**
-- Property image
-- Price, location, and rating
-- Favorite (heart) button
-- Fully responsive layout
+#### 🔝 Navbar
 
-**Footer**
-- Site navigation links
-- Company information
+A sticky, responsive navigation bar that appears across all pages.
+
+**Features:**
+- Site logo
+- Search bar for quick property lookup
+- User navigation options (Login, Profile, Host a Home)
+- Hamburger menu for mobile screens
+
+---
+
+#### 🏘️ Property Card
+
+Displays a snapshot of a property in grid views (e.g., search results).
+
+**Features:**
+- Featured property image
+- Price per night
+- Location and title
+- Star rating
+- Favorite (heart) icon
+- Responsive layout that adjusts to screen sizes
+
+---
+
+#### 📄 Footer
+
+A consistent footer displayed at the bottom of all pages.
+
+**Features:**
+- Navigation links (About, Terms, Privacy, Help, etc.)
 - Social media icons
-- Copyright
+- Company branding
+- Copyright information
 
-Each component will be built to be **modular**, **reusable**, and styled using a unified design system across the entire app.
+---
+
+Each component will follow the design guidelines from the Figma mockup and will be built for **reusability**, **accessibility**, and **performance**.
+
+Additional components such as buttons, modals, date pickers, and form fields will be added as development progresses and aligned with design system standards.
+
 
 ---
